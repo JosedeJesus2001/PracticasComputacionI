@@ -16,10 +16,10 @@ int main() {
  cout <<"Primer numero:" << endl;
  cin>> num1;
 
- cout << "Operacion" << endl;
+ cout << "Operacion:" << endl;
  cin>> simb;
 
- cout<<"Segundo numero" << endl;
+ cout<<"Segundo numero:" << endl;
  cin>> num2;
 
     cout<<"Este programa hace operaciones basicas entre dos numeros." << endl;
